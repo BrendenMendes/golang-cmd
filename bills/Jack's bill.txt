@@ -1,0 +1,6 @@
+Jack's bill
+Pizza:                    ...$9.99 
+Chips:                    ...$2.99 
+Drinks:                   ...$6.99 
+tip:                      ...$1.03
+total:                    ...$21.00

@@ -1,0 +1,5 @@
+Jack's bill
+Beers:                    ...$29.99 
+Chips:                    ...$9.99 
+tip:                      ...$1.02
+total:                    ...$41.00
