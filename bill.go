@@ -22,7 +22,7 @@ func newBill(name string) bill {
 }
 
 func (b *bill) format() string {
-	fs := "Jack's bill\n"
+	fs := "Bill breakdown \n"
 	var total float64 = 0
 
 	for k, v := range b.items {
